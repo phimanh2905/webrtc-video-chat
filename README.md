@@ -15,3 +15,5 @@ However, the WebRTC implementation is progressing in both browsers, so this may 
 - Rough around the edges
 - Connections take a LONG time in Firefox.  Be patient, it will (probably) work if you didn't get a bunch of JavaScript errors.
 - Currently limited to two callers on the line at once.  Conferencing is in the works.
+
+https://www.skylinetechnologies.com/Blog/Skyline-Blog/February-2013/Peer-to-Peer-Media-Streaming-with-WebRTC-and-Signa
